@@ -1,4 +1,6 @@
 git stage test.txt
 git stage .
 git commit -m "Initial push for test"
+git push
 git pull
+
